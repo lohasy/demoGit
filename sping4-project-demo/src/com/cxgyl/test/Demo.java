@@ -10,4 +10,10 @@ public class Demo {
         System.out.println("i am a study man");
         TestUtils.print("项目结束了");
     }
+
+    public static add(int i,int j){
+        System.out.println(i);
+        System.out.println(j);
+        return i+j;
+    }
 }
