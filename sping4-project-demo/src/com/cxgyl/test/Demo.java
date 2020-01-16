@@ -14,6 +14,7 @@ public class Demo {
     }
 
     public static add(int i,int j){
+        System.out.println("cccccc");
         return i + j;
     }
 }
