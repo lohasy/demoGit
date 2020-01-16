@@ -13,13 +13,10 @@ public class Demo {
         System.out.println(add(2+8));
     }
 
-    public static add(int i,int j){
-        return i + j;
-    }
 
     public static add(int i,int j){
-        System.out.println(i);
-        System.out.println(j);
-        return i+j;
+            System.out.println(i);
+            System.out.println(j);
+            return i+j;
     }
 }
