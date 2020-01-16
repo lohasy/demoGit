@@ -15,8 +15,9 @@ public class Demo {
 
 
     public static add(int i,int j){
-            System.out.println(i);
-            System.out.println(j);
+            System.out.println("one======>"+i);
+            System.out.println("two======>"+j);
+
             return i+j;
     }
 }
