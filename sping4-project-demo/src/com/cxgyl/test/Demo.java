@@ -9,5 +9,11 @@ public class Demo {
         list.add("yumx");
         System.out.println("i am a study man");
         TestUtils.print("项目结束了");
+
+        System.out.println(add(2+8));
+    }
+
+    public static add(int i,int j){
+        return i + j;
     }
 }
